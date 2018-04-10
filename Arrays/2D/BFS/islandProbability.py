@@ -90,4 +90,9 @@ class Solution:
 if __name__ == "__main__":
 
 	testcase = Solution().find_survival_probability(3,3,(0,0), 2)
+	
+	#please check with some input like (3,3,(0,1), 1), (3,3,(2,1), 1) 
+	#It's returning 0. Which is ideally not true. as probability it should not return 0 or 1. 
+	# it can be any value from 0 to 1. for any input it's returning either 0 or 1. 
+	
 	print(testcase)
