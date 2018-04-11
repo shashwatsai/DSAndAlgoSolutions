@@ -83,7 +83,7 @@ class Solution:
 		total_moves = valid_moves + invalid_moves
 		# Debug
 		print((valid_moves, valid_moves+ invalid_moves))
-		probability = valid_moves/(invalid_moves+valid_moves)
+		probability = valid_moves/float(invalid_moves+valid_moves)
 
 		return probability
 
