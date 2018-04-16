@@ -11,3 +11,5 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
 	 	- [reverse alternatively Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup2.py)
 	 	- [reverse Linked List between m and n](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseLinkedList2.py)
+	 - Remove/Delete Node
+	 	- [remove nth Node from the end](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNthNodeFromLast.py)
