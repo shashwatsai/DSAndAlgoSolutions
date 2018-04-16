@@ -13,3 +13,5 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [reverse Linked List between m and n](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseLinkedList2.py)
 	 - Remove/Delete Node
 	 	- [remove nth Node from the end](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNthNodeFromLast.py)
+	 - Fast & Slow Pointers
+	 	- [check whether list is Palindrome](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/palindrome.py)
