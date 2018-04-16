@@ -15,3 +15,9 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [remove nth Node from the end](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNthNodeFromLast.py)
 	 - Fast & Slow Pointers
 	 	- [check whether list is Palindrome](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/palindrome.py)
+	 	- [segregate odd and even positions nodes](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/oddEvenPositions.py)
+	 - Delete/Remove Concepts
+	 	- [delete a node in a Linked List](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/deleteNode.py)
+	 	- [Remove Linked List Elements](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNodesWithVal.py)
+
+
