@@ -7,5 +7,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  - [Arrays](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Arrays)
 	 - [Find probability of robot surviving](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/BFS/islandProbability.py)
  - [LinkedList](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/LinkedList)
-	 - [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
-	 - [reverse alternatively Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup2.py)
+ 	 - Reversal Concepts:
+	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
+	 	- [reverse alternatively Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup2.py)
+	 	- [reverse Linked List between m and n](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseLinkedList2.py)
