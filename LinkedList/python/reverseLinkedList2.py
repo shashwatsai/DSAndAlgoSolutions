@@ -58,5 +58,5 @@ if __name__ == "__main__":
 	head = linked_list.insert(head,10, True)
 
 	
-	res = Solution().reverseLinkedListBetween(head, 1, 2)
+	res = Solution().reverseLinkedListBetween(head, 2, 4)
 	linked_list.printLL(res)

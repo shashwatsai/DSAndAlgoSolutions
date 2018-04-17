@@ -17,8 +17,11 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [check whether list is Palindrome](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/palindrome.py)
 	 	- [segregate odd and even positions nodes](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/oddEvenPositions.py)
 	 	- [Intersection of two singlely linked list](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/intersection.py)
+	 	- [Rotate List by K steps clockwise](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/rotateList.py)
 	 - Delete/Remove Concepts
 	 	- [delete a node in a Linked List](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/deleteNode.py)
 	 	- [Remove Linked List Elements](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNodesWithVal.py)
+	 - Pointer Manipulation
+	 	- [Swap Nodes in Pairs](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/swapinpairs.py)
 
 
