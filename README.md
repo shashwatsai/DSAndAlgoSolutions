@@ -24,8 +24,10 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 - Pointer Manipulation
 	 	- [Swap Nodes in Pairs](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/swapinpairs.py)
  - [Binary Search](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/BinarySearch)
+ 	 - Sort Manipulation:
  		-[Search in Rotated Array](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch.py)
  		-[Search in Rotated Array 2](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch2.py)
+ 	 - Binary Search - Increasing/Decreasing Functions
  		-[Painter's Problem](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/paintersProblem.py)
  		-[FairWorkload Topcoder](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/fairworkload.py)
 
