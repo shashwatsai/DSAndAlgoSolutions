@@ -23,5 +23,9 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [Remove Linked List Elements](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNodesWithVal.py)
 	 - Pointer Manipulation
 	 	- [Swap Nodes in Pairs](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/swapinpairs.py)
-
+ - [Binary Search](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/BinarySearch)
+ 		-[Search in Rotated Array](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch.py)
+ 		-[Search in Rotated Array 2](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch2.py)
+ 		-[Painter's Problem](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/paintersProblem.py)
+ 		-[FairWorkload Topcoder](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/fairworkload.py)
 
