@@ -31,3 +31,6 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  		- [Painter's Problem](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/paintersProblem.py)
  		- [FairWorkload Topcoder](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/fairworkload.py)
 
+ - [String](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Strings)
+     - Algorithm Implementation:
+     	- [KMP Algorithm](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/kmp_algo.py)
