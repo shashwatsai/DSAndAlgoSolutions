@@ -6,6 +6,10 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 
  - [Arrays](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Arrays)
 	 - [Find probability of robot surviving](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/BFS/islandProbability.py)
+	 - [Array Rotation](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/RotateArrayJumble.java)
+ - [Binary Trees](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/BinaryTrees)
+ 	 - [Left View of a Tree](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LeftView.java)
+ 	 - [Binary Search Tree Utility](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/BinarySearchTree.java)
  - [LinkedList](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/LinkedList)
  	 - Reversal Concepts:
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
@@ -34,3 +38,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  - [String](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Strings)
      - Algorithm Implementation:
      	- [KMP Algorithm](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/kmp_algo.py)
+     - General
+     	- [Excel Title To Number And Vice Versa](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/FindExcelTitleToNumber.java)
+     	- [Min Window Substring](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/MinWindowSubstring.java)
+     	- [Permutation | Duplicate Allowed](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)	
