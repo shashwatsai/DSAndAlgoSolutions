@@ -11,6 +11,9 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  	 - [Left View of a Tree](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LeftView.java)
  	 - [Binary Search Tree Utility](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/BinarySearchTree.java)
  	 - [Level Order](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LevelOrder.java)
+ - Graphs
+ 	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
+ 	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
  - [LinkedList](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/LinkedList)
  	 - Reversal Concepts:
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
