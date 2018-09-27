@@ -4,17 +4,17 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 
 ## Topicwise Questions
 
- - [Arrays](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Arrays)
+ - Arrays
 	 - [Find probability of robot surviving](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/BFS/islandProbability.py)
 	 - [Array Rotation](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/RotateArrayJumble.java)
- - [Binary Trees](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/BinaryTrees)
+ - Binary Trees
  	 - [Left View of a Tree](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LeftView.java)
  	 - [Binary Search Tree Utility](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/BinarySearchTree.java)
  	 - [Level Order](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LevelOrder.java)
  - Graphs
  	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
  	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
- - [LinkedList](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/LinkedList)
+ - LinkedList
  	 - Reversal Concepts:
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
 	 	- [reverse alternatively Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup2.py)
@@ -31,7 +31,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
 	 	- [Remove Linked List Elements](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/removeNodesWithVal.py)
 	 - Pointer Manipulation
 	 	- [Swap Nodes in Pairs](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/swapinpairs.py)
- - [Binary Search](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/BinarySearch)
+ - Binary Search
  	 - Sort Manipulation:
  		- [Search in Rotated Array](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch.py)
  		- [Search in Rotated Array 2](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/rotatedSearch2.py)
@@ -39,7 +39,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  		- [Painter's Problem](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/paintersProblem.py)
  		- [FairWorkload Topcoder](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/fairworkload.py)
 
- - [String](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Strings)
+ - String
      - Algorithm Implementation:
      	- [KMP Algorithm](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/kmp_algo.py)
      - General
