@@ -43,16 +43,55 @@ public class Graph{
 		this.dfsUtil(source, visited);
 	}
 
+	private boolean hasCycle(){
+		// get all the verticies of graph
+		Set<Integer> verticies = this.graph.keySet();
+		
+		Map<Integer, Boolean> visited = new HashMap<>();
+		Map<Integer, Boolean> recStack = new HashMap<>();
+
+		while(verticies.iterator().hasNext()){
+			int currentVertex = verticies.iterator().next();
+			if(visited.get(currentVertex) == null){
+				return dfs_cycle(currentVertex, visited, recStack);
+			}
+			
+		}
+		
+		return false;
+
+	}
+
+	private boolean dfs_cycle(int vertex, Map<Integer, Boolean> visited, Map<Integer, Boolean> recStack){
+		visited.computeIfAbsent(vertex, k-> true);
+		recStack.computeIfAbsent(vertex, k-> true);
+
+		for(int nei: this.graph.get(vertex)){
+			if(visited.get(nei) == null ){
+				if(dfs_cycle(nei, visited, recStack)){
+					return true;
+				}
+			}
+
+			if(recStack.get(nei) != null){
+				return true;
+			}
+		}
+
+		return false;
+	}
+
 	public static void main(String [] args){
 		Graph g = new Graph();
-		g.addEdge(0,1,false);
-		g.addEdge(0,2,false);
-		g.addEdge(1,2,false);
-		g.addEdge(2,0,false);
-		g.addEdge(2,2,false);
-		g.addEdge(3,0,false);
+		g.addEdge(0,1,true);
+		g.addEdge(0,2,true);
+		g.addEdge(1,2,true);
+		g.addEdge(2,0,true);
+		g.addEdge(2,2,true);
+		g.addEdge(3,0,true);
 
 		g.dfs(2);
 		System.out.println();
+		System.out.println(g.hasCycle());
 	}
 }
