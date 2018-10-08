@@ -7,13 +7,18 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  - Arrays
 	 - [Find probability of robot surviving](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/BFS/islandProbability.py)
 	 - [Array Rotation](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/RotateArrayJumble.java)
+	 - [Common Elements in Sorted Lists](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/python/common.py)
+	 - [Max Sum Non Adjacent Elements](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/MaximumSumNonAdjacent.java)
+	 - [Min Initial Energy](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/MinPower.java)
  - Binary Trees
  	 - [Left View of a Tree](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LeftView.java)
  	 - [Binary Search Tree Utility](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/BinarySearchTree.java)
  	 - [Level Order](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LevelOrder.java)
+ 	 - [Maximum Sum Path Between Nodes](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/MaximumPathSumBetweenNodes.java)
  - Graphs
  	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
  	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
+ 	 - [Connected Cites](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/ConnectedCities.java)
  - LinkedList
  	 - Reversal Concepts:
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
