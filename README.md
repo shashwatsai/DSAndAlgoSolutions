@@ -15,6 +15,8 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  	 - [Binary Search Tree Utility](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/BinarySearchTree.java)
  	 - [Level Order](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/LevelOrder.java)
  	 - [Maximum Sum Path Between Nodes](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/MaximumPathSumBetweenNodes.java)
+ - Heaps
+     - [MaxHeap](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Heap/MaxHeap.java)
  - Graphs
  	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
  	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
