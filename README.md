@@ -46,7 +46,9 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  	 - Binary Search - Increasing/Decreasing Functions
  		- [Painter's Problem](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/paintersProblem.py)
  		- [FairWorkload Topcoder](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinarySearch/python/fairworkload.py)
-
+ - Stacks And Queues
+     - Stacks
+     	- [Largest Area Under Histogram](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/StacksQueues/python/maximum_area_under_histogram.py)
  - String
      - Algorithm Implementation:
      	- [KMP Algorithm](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/kmp_algo.py)
