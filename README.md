@@ -52,6 +52,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
      	- [KMP Algorithm](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/kmp_algo.py)
      - General
      	- [Excel Title To Number And Vice Versa](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/FindExcelTitleToNumber.java)
-     	- [Min Window Substring](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/MinWindowSubstring.java)
-     	- [Min Window Substring](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/min_window_substring.py)
-     	- [Permutation | Duplicate Allowed](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)	
+     	- [Min Window Substring (Java)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/MinWindowSubstring.java)
+     	- [Min Window Substring (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/min_window_substring.py)
+     	- [Permutation | Duplicate Allowed (Java)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)
+     	- [Permutation | Duplicate Allowed (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/permutation_lexo.py)	
