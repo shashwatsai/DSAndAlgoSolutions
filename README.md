@@ -17,6 +17,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  	 - [Maximum Sum Path Between Nodes](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/BinaryTrees/MaximumPathSumBetweenNodes.java)
  - Heaps
      - [MaxHeap](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Heap/MaxHeap.java)
+     - [MinHeap](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Heap/python/min_heap.py)
  - Graphs
  	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
  	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
