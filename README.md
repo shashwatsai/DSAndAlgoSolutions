@@ -58,3 +58,4 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
      	- [Min Window Substring (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/min_window_substring.py)
      	- [Permutation | Duplicate Allowed (Java)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)
      	- [Permutation | Duplicate Allowed (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/permutation_lexo.py)	
+     	- [Permutation | Non Duplicates (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/permutation.py)
