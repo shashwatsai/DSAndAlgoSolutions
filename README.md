@@ -53,4 +53,5 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
      - General
      	- [Excel Title To Number And Vice Versa](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/FindExcelTitleToNumber.java)
      	- [Min Window Substring](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/MinWindowSubstring.java)
+     	- [Min Window Substring](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/min_window_substring.py)
      	- [Permutation | Duplicate Allowed](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)	
