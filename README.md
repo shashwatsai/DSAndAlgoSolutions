@@ -59,3 +59,6 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
      	- [Permutation | Duplicate Allowed (Java)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/PermutationLexo.java)
      	- [Permutation | Duplicate Allowed (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/permutation_lexo.py)	
      	- [Permutation | Non Duplicates (Python)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Strings/python/permutation.py)
+ - Dynamic Programming
+ 	 - [Maximum Value Contiguous Subsequence](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/DynamicProgamming/MaximumValueContiguousSum)
+ 	 - [Min Sum Path Matrix (DP + Arrays)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/MinSumPathInMatrix.java)
