@@ -22,6 +22,7 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  	 - [Depth First Search | Python](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/python/DFS.py)
  	 - [DFS | java](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/Graph.java)
  	 - [Connected Cites](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/Graphs/ConnectedCities.java)
+ 	 - [Connected Cells In a Grid](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/DisjointSets/ConnectedSetsGrid.java)
  - LinkedList
  	 - Reversal Concepts:
 	 	- [reverse Linked List in group of K](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/LinkedList/python/reverseKGroup.py)
@@ -62,3 +63,6 @@ Data Structures and Algorithms Solutions, for questions discussed with colleague
  - Dynamic Programming
  	 - [Maximum Value Contiguous Subsequence](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/DynamicProgramming/MaximumValueContiguousSum.java)
  	 - [Min Sum Path Matrix (DP + Arrays)](https://github.com/shashwatsai/DSAndAlgoSolutions/blob/master/Arrays/2D/MinSumPathInMatrix.java)
+ - Disjoint Sets
+     - [Disjoint Sets with Path Compression](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/DisjointSets/DisjointSetsPathCompression.java)
+     - [Merging Communities](https://github.com/shashwatsai/DSAndAlgoSolutions/tree/master/DisjointSets/MergingCommunities.java)
