@@ -3,7 +3,7 @@ class StringManipulation{
 	private static String[] solve(String [] a){
 		List<String> res = new ArrayList<>();
 
-
+		
 		
 
 		return res.toArray();

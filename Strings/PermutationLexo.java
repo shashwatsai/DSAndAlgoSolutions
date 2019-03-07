@@ -49,6 +49,7 @@ public class PermutationLexo{
 			index++;
 		}
 
+
 		List<String> resultSet = new ArrayList<>();
 		char [] result = new char[input.length];
 

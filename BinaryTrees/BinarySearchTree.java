@@ -95,6 +95,40 @@ public class BinarySearchTree{
 		}
 	}
 
+	public TreeNode delete(TreeNode root, int key){
+		if(root == null)
+			return root;
+
+		if(root.val > key){
+			root.left = delete(root.left, key);
+		}else if(root.val < key){
+			root.right = delete(root.right, key);
+		}else{
+			// we got the key
+			if(root.left == null)
+				return root.right;
+			else if(root.right == null)
+				return root.left;
+			
+			root.val = minVal(root.right).val;
+			root.right = delete(root.right, root.val);
+
+		}
+
+		return root;
+	}
+
+	public TreeNode minVal(TreeNode root){
+		if(root == null)
+			return null;
+
+		while(root.left != null){
+			root = root.left;
+		}
+
+		return root;
+	}
+
 
 	public static void main(String [] args){
 		BinarySearchTree bst = new BinarySearchTree();
@@ -114,8 +148,12 @@ public class BinarySearchTree{
 		fakeRoot.right = new TreeNode(2);
 
 
-		bst.inOrder(fakeRoot);
+		bst.inOrder(root);
 		System.out.println();
-		System.out.println(bst.isBST(fakeRoot));
+		
+		bst.delete(root, 11);
+		bst.inOrder(root);
+		System.out.println();
+
 	}
 }

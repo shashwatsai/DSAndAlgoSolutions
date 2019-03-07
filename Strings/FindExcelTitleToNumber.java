@@ -33,7 +33,7 @@ public class FindExcelTitleToNumber{
 
 	public static void main(String [] args){
 		FindExcelTitleToNumber test = new FindExcelTitleToNumber();
-		System.out.println(test.titleToNumber("A".toCharArray()));
+		System.out.println(test.titleToNumber("AB".toCharArray()));
 		System.out.println(test.numberToTitle(1));
 	}
 }

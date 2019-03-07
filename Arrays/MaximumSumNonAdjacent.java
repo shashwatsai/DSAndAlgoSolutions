@@ -7,6 +7,8 @@ public class MaximumSumNonAdjacent{
 
 		dp[0] = 0;
 		dp[1] = arr[0];
+        // a  =    [5,1,6,2]
+		// dp =  [0,5,0,0,0]
 
 		for(int i=2; i< dp.length; i++){
 			dp[i] = Math.max(dp[i-1],dp[i-2]+arr[i-1]);
